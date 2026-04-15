@@ -1,0 +1,12 @@
+#PASA 
+28_Apr_25
+1. Prompt
+2. Comparision of prompts
+3. python packages to extract
+4. Language model: Azure OpenAI
+5. Image content extraction available
+6. Search hierarchy
+7. Whenever change in sharepoint, pipeline automatically triggered 
+8. Demand analysis
+9. Automation of Desktop use for AI to give inputs
+10. Demand and forecast analysis
