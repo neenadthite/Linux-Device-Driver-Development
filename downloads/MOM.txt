@@ -1,5 +1,3 @@
-#PASA 
-28_Apr_25
 1. Prompt
 2. Comparision of prompts
 3. python packages to extract
